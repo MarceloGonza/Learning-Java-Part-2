@@ -18,6 +18,12 @@ public class PruebaCapas {
         panta.setVisible(true);
         panta.setLocationRelativeTo(null);
 
-        
+
     }
 }
+
+
+/*EJECUTAR DESDE LA RAIZ DEL PROYECTO:
+javac -d out src/main/java/igu/Pantalla.java src/main/java/logica/PruebaCapas.java
+java -cp out logica.PruebaCapas
+*/
